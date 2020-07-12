@@ -1,0 +1,8 @@
+work/
+groundnet/Airports
+groundnet/aptdat2sqlite.py
+groundnet/sqlite2xml.py
+groundnet/apt.dat
+groundnet/groundnets.db
+data/SRTM-1
+output/
